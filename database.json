@@ -1,0 +1,22 @@
+[
+    {
+        "type_quesion": "TF",
+        "quesion": "Năm 1911, Rơ-đơ-pho (E. Rutherford) và các cộng sự đã dùng các hạt α bắn phá lá vàng mỏng và dùng màn huỳnh quang đặt sau lá vàng để theo dõi đường đi của các hạt α. Kết quả thí nghiệm đã rút ra các kết luận về nguyên tử như sau:",
+        "option_answer": ["(1) Nguyên tử có cấu tạo rỗng","(2) Hạt nhân nguyên tử có kích thước rất nhỏ so với kích thước nguyên tử.","(3) Hạt nhân nguyên tử mang điện tích âm.","(4) Xung quanh nguyên tử là các electron chuyển động tạo nên lớp vỏ nguyên tử."],
+        "answer": "TTFT"
+    },
+    
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "nooij dung cau hoi",
+        "option_answer": ["A.noi fun ", "B.www", "C.efw", "D.sgdg"],
+        "answer": "A.noi fun "
+    },
+    {
+        "type_quesion": "fill_answer",
+        "quesion": "nooij dung cau hoi",
+        "option_answer": [],
+        "answer": "noi fun"
+    }
+
+]

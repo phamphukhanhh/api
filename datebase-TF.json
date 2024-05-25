@@ -1,0 +1,28 @@
+[
+    {
+        "type_quesion": "TF",
+        "quesion": "Năm 1911, Rơ-đơ-pho (E. Rutherford) và các cộng sự đã dùng các hạt α bắn phá lá vàng mỏng và dùng màn huỳnh quang đặt sau lá vàng để theo dõi đường đi của các hạt α. Kết quả thí nghiệm đã rút ra các kết luận về nguyên tử như sau:",
+        "option_answer": ["(1) Nguyên tử có cấu tạo rỗng","(2) Hạt nhân nguyên tử có kích thước rất nhỏ so với kích thước nguyên tử.","(3) Hạt nhân nguyên tử mang điện tích âm.","(4) Xung quanh nguyên tử là các electron chuyển động tạo nên lớp vỏ nguyên tử."],
+        "answer": "TTFT"
+    },
+    
+    {
+        "type_quesion": "TF",
+        "quesion": "Nếu xem nguyên tử như một quả cầu thì:",
+        "option_answer": ["A.Đường kính của nguyên tử bằng đường kính của hạt nhân", "B.Đường kính của nguyên tử gấp 10 lần đường kính của hạt nhân", "C.Đường kính của nguyên tử gấp 100 lần đường kính của hạt nhân", "D.Đường kính của nguyên tử chủ yếu tập trung ở lớp vỏ "],
+        "answer": "FFTT"
+    },
+    {
+        "type_quesion": "TF",
+        "quesion": "Trên vỏ nguyên tử các electron chuyển động xung quanh hạt nhân nên:",
+        "option_answer": ["A.Vỏ nguyên tử được cấu thành từ các electron", "B.Vỏ nguyên tử được cấu thành từ các electron và proton", "C.Hạt nhân nguyên tử được cấu thành từ các hạt electron và proton", "D.Nguyên tử được cấu thành từ các hạt cơ bản proton, electron và neutron"],
+        "answer": "TFFT"
+    },
+    {
+        "type_quesion": "TF",
+        "quesion": "Ký hiệu của nguyên tử Aluminium (Al)  là: (_13^27)Al cho ta biết:",
+        "option_answer": ["A.Số proton nguyên tử Al là 13", "B.Số electron nguyên tử Al là 13", "C.Số hạt neutron nguyên tử Al là 27", "D.Số hạt neutron nguyên tử Al là 14"],
+        "answer": "TTFT"
+    }
+
+]
