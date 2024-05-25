@@ -23,6 +23,30 @@
         "quesion": "Ký hiệu của nguyên tử Aluminium (Al)  là: (_13^27)Al cho ta biết:",
         "option_answer": ["A.Số proton nguyên tử Al là 13", "B.Số electron nguyên tử Al là 13", "C.Số hạt neutron nguyên tử Al là 27", "D.Số hạt neutron nguyên tử Al là 14"],
         "answer": "TTFT"
+    },
+    {
+        "type_quesion": "TF",
+        "quesion": "Electron được phát minh ra năm 1897 bởi nhà bác học người Anh Tom-Xơn. Từ khi phát hiện đến nay electron đóng vai trò to lớn trong lĩnh vực của cuộc sống như: năng lượng, truyền thông và thông tin",
+        "option_answer": ["A.Electron có khối lượng không đáng kể so với khối lượng của nguyên tử ", "B.Electron chỉ thoát ra khỏi nguyên tử trong những điều kiện đặc biệt", "C.Electron mang điện tích âm", "D.Electron mang điện tích dương"],
+        "answer": "TTTF"
+    },
+    {
+        "type_quesion": "TF",
+        "quesion": "Electron được phát minh ra năm 1897 bởi nhà bác học người Anh Tom-Xơn. Từ khi phát hiện đến nay electron đóng vai trò to lớn trong lĩnh vực của cuộc sống như: năng lượng, truyền thông và thông tin",
+        "option_answer": ["A.Electron có khối lượng không đáng kể so với khối lượng của nguyên tử ", "B.Electron chỉ thoát ra khỏi nguyên tử trong những điều kiện đặc biệt", "C.Electron mang điện tích âm", "D.Electron mang điện tích dương"],
+        "answer": "TFTT"
+    },
+    {
+        "type_quesion": "TF",
+        "quesion": "Nguyên tử là những hạt vô cùng nhỏ và trung hòa về điện",
+        "option_answer": ["A.Số đơn vị điện tích dương của hạt nhân bằng số đơn vị điện tích âm của các electron trong nguyên tử", "B.Số đơn vị điện tích dương của hạt nhân bằng số đơn vị điện tích dương của các electron trong nguyên tử", "C.Trong nguyên tử khối lượng của các electron rất nhỏ so với khối lượng của proton và neutron", "D.Khối lượng của nguyên tử chủ yếu tập trung ở hạt nhân"],
+        "answer": "TFTT"
+    },
+    {
+        "type_quesion": "TF",
+        "quesion": "Nguyên tử là phần tử nhỏ nhất cấu tạo nên chất không bị phân chia nhỏ hơn trong các phản ứng hóa học nên ",
+        "option_answer": ["A.Nguyên tử được cấu tạo thành từ các hạt cơ bản là proton, neutron và electron ", "B.Nguyên tử có cấu trúc đặc khít, gồm vỏ nguyên tử và hạt nhân nguyên tử", "C.Nguyên tử có cấu tạo rỗng, gồm hạt nhân ở trung tâm và lớp vỏ là các electron chuyển động xung quanh hạt nhân", "D.Khối lượng của nguyên tử chủ yếu tập trung ở hạt nhân"],
+        "answer": "FTTF"
     }
 
 ]

@@ -1,0 +1,62 @@
+[
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Trong nguyên tử, khối lượng của hạt nào không đáng kể so với các hạt còn lại?",
+        "option_answer": ["A.Neutron", "B.Electron", "C.Proton", "D.Electron và proton"],
+        "answer": "B.Electron"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": " Hạt nhân nguyên tử được cấu tạo bởi:",
+        "option_answer": ["A.Neutron và electron", "B.Electron", "C.Proton và electron", "D.Proton và neutron"],
+        "answer": "D.Proton và neutron"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Hạt nào sau đây nằm ở lớp vỏ nguyên tử?",
+        "option_answer": ["A.Hạt neutron", "B.Hạt α", "C.Hạt proton", "D.Hạt electron."],
+        "answer": "D.Hạt electron"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Trong nguyên tử, hạt nào mang điện?",
+        "option_answer": ["A.Neutron và electron", "B.Electron", "C.Proton", "D.Electron và proton"],
+        "answer": "D.Electron và proton"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Phát biểu nào sau đây không đúng?",
+        "option_answer": ["A.Hạt nhân nguyên tử được tạo bởi proton và neutron", "B.Số proton trong nguyên tử bằng số neutron", "C.Số proton trong hạt nhân bằng số electron của lớp vỏ nguyên tử", "D.Các electron chuyển động rất nhanh xung quanh hạt nhân"],
+        "answer": "B.Số proton trong nguyên tử bằng số neutron"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Một nguyên tử có 40 proton. Số electron của nguyên tử đó là?",
+        "option_answer": ["A.40", "B.20", "C.80", "D.41."],
+        "answer": "A.40"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": " Khối lượng của proton gấp khoảng bao nhiêu lần khối lượng của electron? (biết khối lượng của proton là 1,673.10-27 kg, khối lượng của electron là 9,109.10-31 kg)",
+        "option_answer": ["A.1836 lần", "B.1368 lần", "C.1638 lần", "D.1386 lần"],
+        "answer": "A.1836 lần"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Đơn vị của khối lượng nguyên tử là?",
+        "option_answer": ["A.gam", "B.kilogam", "C.lít", "D.amu"],
+        "answer": "D.amu"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Đường kính của nguyên tử lớn hơn đường kính của hạt nhân khoảng bao nhiêu lần?",
+        "option_answer": ["A.100 lần", "B.1000 lần", "C.10000 lần", "D.100000 lần"],
+        "answer": "C.10000 lần"
+    },
+    {
+        "type_quesion": "multi_choice",
+        "quesion": "Một nguyên tử X có 19 proton trong hạt nhân. Khối lượng của proton trong hạt nhân nguyên tử X là?",
+        "option_answer": ["A.31,768.10(^-24) g", "B.31,768.10(^-26) kg", "C.31,768.10(^-27) g", "D.31,768.10(^-24) kg   ."],
+        "answer": "A.31,768.10(^-24) g"
+    }
+]
